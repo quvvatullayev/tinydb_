@@ -1,0 +1,28 @@
+{
+    "_default": {
+        "1": {
+            "age": 20,
+            "name": "ogebk"
+        },
+        "2": {
+            "age": 20,
+            "name": "ogebk"
+        },
+        "3": {
+            "age": 20,
+            "name": "ogebk"
+        },
+        "4": {
+            "age": 15,
+            "name": "ozod"
+        },
+        "5": {
+            "age": 15,
+            "name": "ozod"
+        },
+        "6": {
+            "age": 15,
+            "name": "ozod"
+        }
+    }
+}
